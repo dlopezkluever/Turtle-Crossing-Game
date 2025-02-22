@@ -83,7 +83,9 @@ while game:
         screen.update()
 screen.exitonclick()
 
-# How to move to Github
+# How to move to GitHub
 # git remote add origin https://github.com/your-username/your-repo.git
 # For this app: git remote add origin https://github.com/dlopezkluever/Turtle-Crossing-Game.git
 
+# git config --global user.email "dlopezkluever@gmail.com"
+# git config --global user.name "Daniel Lopez"
